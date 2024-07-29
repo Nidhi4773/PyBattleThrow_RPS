@@ -15,15 +15,14 @@ Welcome to the **Rock, Paper, Scissors** game! This interactive application allo
 To run the Rock, Paper, Scissors game, you'll need to have Python installed on your computer. Follow these steps to install and run the game:  
 
 1. Clone the Repository:
-git clone https://github.com/yourusername/password-generator.git  
-cd password-generator
+git clone https://github.com/Nidhi4773/PyBattleThrow_RPS.git
  
 2. Ensure Python is Installed: This application requires Python 3.x. If you don't have Python installed, download it from python.org.
   
 3. Run the Application:
 Execute the following command in your terminal or command prompt:
 
-python password_generator.py 
+python rockpaperscissors.py 
 
 ## Usage
 Once the game is launched:
