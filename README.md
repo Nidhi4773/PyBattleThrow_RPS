@@ -26,8 +26,6 @@ To run the Rock, Paper, Scissors game, you'll need to have Python installed on y
    ```bash
    python rockpaperscissors.py
    ```
-
-
 ## Usage
 Once the game is launched:
 1. You will see three buttons labeled **Rock**, **Paper**, and **Scissors** on the interface.
