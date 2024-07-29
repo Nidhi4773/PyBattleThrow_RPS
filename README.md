@@ -16,7 +16,7 @@ To run the Rock, Paper, Scissors game, you'll need to have Python installed on y
 
 1. **Clone the Repository**:
    ```bash
-   git clone https: https://github.com/Nidhi4773/PyBattleThrow_RPS.git
+   git clone https://github.com/Nidhi4773/PyBattleThrow_RPS.git
    ```
 
 2. **Ensure Python is Installed**: This application requires Python 3.x. If you don't have Python installed, download it from [python.org](https://www.python.org/downloads/).
